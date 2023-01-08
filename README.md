@@ -11,7 +11,7 @@ This application requires Steam to be open and for you to be logged in. This pro
 Source: jshackles/idle_master
 
 🔽 Download
-https://github.com/JonasNilsoon/idle_master_extended_v2/releases
+https://github.com/JonasNilsoon/idle_master_extended_v2.git
 💭 Idle Master Extended Wiki
 🧰 Get started
 ✨ Features
