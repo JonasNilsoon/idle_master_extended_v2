@@ -1,4 +1,4 @@
-# dle_master_extended_v2
+# idle_master_extended_v2
 Get your Steam Trading Cards the quickest possible way.
 
 ❓ But what is Idle Master Extended?
